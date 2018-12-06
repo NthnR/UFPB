@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
-
+edietei
 	typedef struct apartamento{
 		char titulo[51];
 		char rua[101];
